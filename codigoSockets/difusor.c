@@ -1,9 +1,9 @@
 /*
 ** Fichero: difusor.c
 ** Autores:
-** Erick JosE Mercado Hernandez DNI 43840208T
-** Javier MerchAn Benito DNI 70923644Q
-** Usuario i0923644
+** Erick JosE Mercado Hernandez 
+** Javier MerchAn Benito 
+** Usuario 
 */
 
 #include <sys/types.h>   
